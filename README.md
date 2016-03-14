@@ -9,4 +9,4 @@ To override anything in the theme, create a file with the same name as the one y
 
 More information on creating a [Wordpress Child Theme](https://codex.wordpress.org/Child_Themes).
 
-Hackerspace website: [hackadl.org](https://hackadl.org)
+Hackerspace website: [hackadl.org](http://hackadl.org)
